@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a> Formulário </a>
+  <a> Projeto Devsla - Clone Site da Tesla  </a>
 </h1>
 
 <h2>Sistema Operacional</h2>
@@ -40,4 +40,4 @@
 
 <h2> 🔵 Sobre </h2>
 
-Simples formulário onde demonstro praticidade no uso. 
+Fiz uma prática simples de um site similar ao site da tesla. 

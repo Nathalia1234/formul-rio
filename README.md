@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a> Projeto Devsla - Clone Site da Tesla  </a>
+  <a> Projeto Devsla - Clone da Primeira Página do Site da Tesla  </a>
 </h1>
 
 <h2>Sistema Operacional</h2>

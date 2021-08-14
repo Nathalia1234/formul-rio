@@ -40,4 +40,9 @@
 
 <h2> 🔵 Sobre </h2>
 
-Fiz uma prática simples de um site similar ao site da tesla. 
+Clone da primeira página do site da tesla, onde serviu como exemplo para praticar um pouco e mudei algumas cores e imagem. 
+
+<h2> 🔵 Imagens do Projeto </h2>
+
+![image](https://user-images.githubusercontent.com/37275221/129460780-d2eed303-da8b-489e-9592-e590ea353110.png)
+

@@ -40,9 +40,12 @@
 
 <h2> 🔵 Sobre </h2>
 
-Clone da primeira página do site da tesla, onde serviu como exemplo para praticar um pouco e mudei algumas cores e imagem. 
+Clone da primeira página do site da tesla, onde serviu como exemplo para praticar um pouco e mudei algumas cores e imagem, além da página ser responsiva. 
 
 <h2> 🔵 Imagens do Projeto </h2>
 
 ![image](https://user-images.githubusercontent.com/37275221/129460780-d2eed303-da8b-489e-9592-e590ea353110.png)
+
+![image](https://user-images.githubusercontent.com/37275221/129461032-62cb7465-0956-4864-8ae0-db955d3aadb2.png)
+
 

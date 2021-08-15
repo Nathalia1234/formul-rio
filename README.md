@@ -40,7 +40,9 @@
 
 <h2> 🔵 Sobre </h2>
 
-Clone da primeira página do site da tesla, onde serviu como exemplo para praticar um pouco e mudei algumas cores e imagem, além da página ser responsiva. 
+- Clone da primeira página do site da tesla, onde serviu como exemplo para praticar um pouco HTML e CSS.
+- Mudei algumas cores, imagens.
+- A página é responsiva. 
 
 <h2> 🔵 Imagens do Projeto </h2>
 
